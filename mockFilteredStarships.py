@@ -1,0 +1,2 @@
+def mockFilteredStarships():
+    return {'starships': [{'name': 'Death Star', 'hyperdrive': '4.0'}, {'name': 'Rebel transport', 'hyperdrive': '4.0'}, {'name': 'CR90 corvette', 'hyperdrive': '2.0'}, {'name': 'Star Destroyer', 'hyperdrive': '2.0'}, {'name': 'Executor', 'hyperdrive': '2.0'}, {'name': 'Sentinel-class landing craft', 'hyperdrive': '1.0'}, {'name': 'Y-wing', 'hyperdrive': '1.0'}, {'name': 'X-wing', 'hyperdrive': '1.0'}, {'name': 'TIE Advanced x1', 'hyperdrive': '1.0'}, {'name': 'Millennium Falcon', 'hyperdrive': '0.5'}], 'starships_unknown_hyperdrive': []}
